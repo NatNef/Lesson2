@@ -12,21 +12,23 @@
 <!--        android:layout_width="match_parent"-->
 <!--        android:layout_height="match_parent" />-->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="top"
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="top"-->
 
-        android:text="@string/HeW"
-        android:textSize="@dimen/TextSize" />
+<!--        android:text="@string/HeW"-->
+<!--        android:textSize="@dimen/TextSize" />-->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:gravity="center"
-        android:text="Hello World! 2"
-        android:textSize="16sp"
-        />
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="bottom"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Hello World! 2"-->
+<!--        android:textSize="16sp"-->
+<!--        />-->
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
