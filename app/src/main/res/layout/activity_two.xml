@@ -10,9 +10,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="top"
-        android:text="Hello World! 1"
-        android:textSize="@dimen/TextSize"
-        />
+
+        android:text="@string/HeW"
+        android:textSize="@dimen/TextSize" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -23,5 +23,12 @@
         android:textSize="16sp"
         />
 
+<!--       android:supportsRtl="true"
+android:gravity="end/write" c 17 версии ввод с лева на право
+свой внутренний текст разместил с гравитацией спправа
+это для того что-бы писать слева на право-->
+<!--// layout_gravity связан с родителем нижняя граница-->
+<!--    по внещнему контенеру-->
 
+<!--    android:gravity="center" выравнивает относительно себя-->
 </FrameLayout>
